@@ -1,2 +1,2 @@
 # hello-world
-Test repository
+This is a test readme in order to learn GitHub
